@@ -40,5 +40,8 @@ public class Empresa {
 
     //
 
+    public Double getSueldosNetos(Empleado empleados) {
+    	return 1d;
+    }
 
 }
